@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "188785025704",
+    "firebase_url": "https://tngoffice-ae2eb.firebaseio.com",
+    "project_id": "tngoffice-ae2eb",
+    "storage_bucket": "tngoffice-ae2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188785025704:android:917f3d6e4df00085",
+        "android_client_info": {
+          "package_name": "vn.tng.tngoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188785025704-m4lmel3pqmv2rcgqhbj00qobl5q2quti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.tng.tngoffice",
+            "certificate_hash": "b4d424fd6e92b6a39e180c01a92d181672bece8d"
+          }
+        },
+        {
+          "client_id": "188785025704-vi19gss5npvucsjh5b8sm50eh6mn3ida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1w-KktOlOyEJUZ9V9iLj2cy22n7xkqxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188785025704-vi19gss5npvucsjh5b8sm50eh6mn3ida.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188785025704-60c7o88rhqlk6nfg2tat4n0via5f4omt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.tng.tngoffice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
